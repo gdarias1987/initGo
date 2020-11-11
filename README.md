@@ -1,5 +1,5 @@
-# initGo
-:small_red_triangle:Willi3:small_red_triangle_down:
+## initGo
+:small_red_triangle:**Willi3**:small_red_triangle_down:
 
 Información básica del lenguaje GO
 
